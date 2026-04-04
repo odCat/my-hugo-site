@@ -1,4 +1,4 @@
-baseURL: "https://odCat.github.io/my-hugo-site/"
+baseURL: "https://odcat.github.io/my-hugo-site/"
 languageCode: "en-us"
 title: "Mihai Gătejescu"
 theme: "PaperMod"
