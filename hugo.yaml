@@ -15,3 +15,7 @@ params:
     title: Mihai Gătejescu
     subtitle: Welcome to my blog!
     imageUrl: https://...
+
+    buttons:
+      - name: Posts
+        url: "posts"
