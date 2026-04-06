@@ -15,7 +15,3 @@ params:
     title: Mihai Gătejescu
     subtitle: Programmer & Maintainer
     imageUrl: images/profile.webp
-
-    buttons:
-      - name: Posts
-        url: "posts"
