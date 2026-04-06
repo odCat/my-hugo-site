@@ -9,6 +9,8 @@ params:
       url: https://github.com/odCat
     - name: LinkedIn
       url: https://www.linkedin.com/in/mihai-g%C4%83tejescu/
+    - name: Boot.dev
+      url: https://www.boot.dev/u/mgatejescu
 
   profileMode:
     enabled: true
